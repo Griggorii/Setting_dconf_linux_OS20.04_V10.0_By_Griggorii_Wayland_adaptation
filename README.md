@@ -28,3 +28,5 @@ ctrl+c
 _____________________________________________________________________________________________________________________________________________________
 
 CTRL+ALT+F1 lockscreen | easy fast screenshot SHIFT+F7 | SHIFT+Print Wayland session record screencast video not sound format .webm
+
+SHIFT+NUM+ SHIFT+NUM- zoom text and all compozitor |

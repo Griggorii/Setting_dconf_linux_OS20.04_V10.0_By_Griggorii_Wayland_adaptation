@@ -27,4 +27,4 @@ sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh && sud
 ctrl+c
 _____________________________________________________________________________________________________________________________________________________
 
-CTRL+ALT+F1 lockscreen | easy fast screenshot SHIFT+F7 | Wayland session record screencast video not sound SHIFT+Print
+CTRL+ALT+F1 lockscreen | easy fast screenshot SHIFT+F7 | SHIFT+Print Wayland session record screencast video not sound format .webm

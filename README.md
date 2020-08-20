@@ -30,3 +30,5 @@ ________________________________________________________________________________
 CTRL+ALT+F1 lockscreen | easy fast screenshot SHIFT+F7 | SHIFT+Print Wayland session record screencast video not sound format .webm
 
 SHIFT+NUM+ SHIFT+NUM- zoom text and all compozitor | CTRL+NUM- CTRL+NUM+ volime sound | CTRL+M Mute sound | ALT+M off/on microphone sound
+
+View all combinations keyboard - > gnome-control-center

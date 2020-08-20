@@ -25,3 +25,6 @@ copy full command to terninal enter
 sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh && sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 
 ctrl+c
+_____________________________________________________________________________________________________________________________________________________
+
+CTRL+ALT+F1 lockscreen | easy fast screenshot SHIFT+F7 | Wayland session record screencast video not sound SHIFT+Print

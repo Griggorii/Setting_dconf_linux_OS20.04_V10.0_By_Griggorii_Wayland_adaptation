@@ -40,3 +40,5 @@ CTRL+NUM- CTRL+NUM+ volime sound | CTRL+M double click Mute sound off/on |
 ALT+M double click Microphone sound off/on | 
 
 View all combinations keyboard - > gnome-control-center
+
+Можно сказать это java конфиг из него можно взять те же данные и сделать на основе этого сайт всё базируется на true , false , auto например вы хотите отключить пункт блокировки экрана и блокировать просто клавишами или при закрытии крышки ноутбука вам не надо что бы работала блокировка тогда вы ищите все пункты вида [org/gnome/desktop/lockdown] и делаете за место false , true disable-lock-screen=true < будет означать что пункт блокировки экрана скроется. Что касается схем то они имеют свой реестр вида цифр иногда и с буквами.

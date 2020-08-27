@@ -27,6 +27,8 @@ sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh && sud
 ctrl+c
 _____________________________________________________________________________________________________________________________________________________
 
+ALT+F2 fire run applications |
+
 CTRL+ALT+F1 lockscreen | 
 
 easy fast screenshot SHIFT+F7 |

@@ -3,6 +3,8 @@ linux , bash , nemo-desktop , nautilus-desktop , dconf , property , new
 
 install nemo new dconf
 
+sudo rm -rf /etc/xdg/autostart/nemo*
+
 chmod -R a+rwx Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 
 Run click Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh

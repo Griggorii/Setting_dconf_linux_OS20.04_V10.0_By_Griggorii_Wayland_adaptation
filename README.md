@@ -1,15 +1,15 @@
 # Setting_dconf_linux_OS20.04__Wayland_adaptation
 linux , bash , nemo-desktop , nautilus-desktop , dconf , property , new
 
-install nemo new dconf dump mixer->(OS8.0_20.04)->Setting_dconf_linux_OS20.04_V12.0_By_Griggorii_Wayland_adaptation.sh
+install nemo new dconf
 
-chmod -R a+rwx Setting_dconf_linux_OS20.04_V10.0_By_Griggorii_Wayland_adaptation.sh
+chmod -R a+rwx Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 
-Run click Setting_dconf_linux_OS20.04_V10.0_By_Griggorii_Wayland_adaptation.sh
+Run click Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 
 copy full command to terninal enter
 
-sudo ./Setting_dconf_linux_OS20.04_V10.0_By_Griggorii_Wayland_adaptation.sh
+sudo ./Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 
 ctrl+c
 _________________________________________________________________________________________________________________________________________________________________

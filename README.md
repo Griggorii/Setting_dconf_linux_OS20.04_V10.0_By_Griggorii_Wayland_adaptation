@@ -45,6 +45,8 @@ $ ./securetty_pam_fix.sh
 
 _____________________________________________________________________________________________________________________________________________________
 
+Dconf setting keyboard command
+
 ALT+F2 fire run applications |
 
 CTRL+ALT+F1 lockscreen | 

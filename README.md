@@ -3,6 +3,8 @@ linux , bash , nemo-desktop , nautilus-desktop , dconf , property , new
 
 Install nemo new dconf terminal run in locate folder Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 
+# Nemo filemanager default
+
 $ sudo rm -rf /etc/xdg/autostart/nemo*
 
 $ chmod -R a+rwx Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
@@ -17,6 +19,8 @@ ctrl+c
 _________________________________________________________________________________________________________________________________________________________________
 
 Install nautilus terminal run in locate folder Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
+
+# Nautilus filemanager my alternative
 
 $ chmod -R a+rwx Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 

@@ -1,7 +1,7 @@
 # Setting_dconf_linux_OS20.04__Wayland_adaptation
 linux , bash , nemo-desktop , nautilus-desktop , dconf , property , new
 
-install nemo new dconf
+Install nemo new dconf terminal run in locate folder Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 
 $ sudo rm -rf /etc/xdg/autostart/nemo*
 
@@ -16,13 +16,13 @@ $ sudo ./Setting_dconf_linux_OS20.04_V14.0_By_Griggorii_Wayland_adaptation.sh
 ctrl+c
 _________________________________________________________________________________________________________________________________________________________________
 
-install nautilus
+Install nautilus terminal run in locate folder Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 
 $ chmod -R a+rwx Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 
 Run click Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 
-copy full command to terninal enter
+copy full command to terminal enter
 
 $ sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh && sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 
@@ -34,6 +34,14 @@ Denied service low memory not dconf , my tweak system terminal run in locate fol
 $ chmod -R a+rwx alarm-notify+calendar-denied-service.sh
 
 $ ./alarm-notify+calendar-denied-service.sh
+
+_____________________________________________________________________________________________________________________________________________________
+
+Securetty fix pam gdm login terminal run in locate securetty_pam_fix.sh
+
+$ chmod -R a+rwx securetty_pam_fix.sh
+
+$ ./securetty_pam_fix.sh
 
 _____________________________________________________________________________________________________________________________________________________
 

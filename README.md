@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 Install nautilus terminal run in locate folder Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 
-# Nautilus filemanager my alternative to gnome-session
+# Nautilus filemanager default to gnome-session
 
 $ chmod -R a+rwx Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh
 

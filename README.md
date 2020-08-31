@@ -29,6 +29,14 @@ sudo ./Replace_nemo-to-nautilus_dconf_linux_OS20.04_V10.0_By_Griggorii.sh && sud
 ctrl+c
 _____________________________________________________________________________________________________________________________________________________
 
+Denied service low memory not dconf , my tweak system terminal run in locate folder alarm-notify+calendar-denied-service.sh
+
+chmod -R a+rwx alarm-notify+calendar-denied-service.sh
+
+sudo ./alarm-notify+calendar-denied-service.sh
+
+_____________________________________________________________________________________________________________________________________________________
+
 ALT+F2 fire run applications |
 
 CTRL+ALT+F1 lockscreen | 

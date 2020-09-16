@@ -52,7 +52,7 @@ Dconf setting keyboard command
 
 ALT+F2 fire run applications |
 
-CTRL+ALT+F1 lockscreen | 
+CTRL+ALT+F1 lockscreen emulation passwd | alternative unlock CTRL+ALT+F2 vulnerability tty ?
 
 easy fast screenshot SHIFT+F7 |
 

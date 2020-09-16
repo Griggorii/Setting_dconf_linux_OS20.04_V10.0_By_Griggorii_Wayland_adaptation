@@ -1,6 +1,6 @@
 #!/bin/bash
 
-####Griggorii@gmail.com mit lisence
+####Griggorii@gmail.com mit license
 
 cd /usr/share/dbus-1/services
 EOF

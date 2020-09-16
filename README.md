@@ -52,7 +52,7 @@ Dconf setting keyboard command
 
 ALT+F2 fire run applications |
 
-CTRL+ALT+F1 lockscreen gdm3 emulation passwd | alternative unlock gdm3 CTRL+ALT+F2 vulnerability tty ?
+CTRL+ALT+F1 lockscreen gdm3 emulation passwd | alternative unlock gdm3 CTRL+ALT+F2 vulnerability tty ? или удобство лучше блокируйте через интерфейс потому что это это скорее всего для теста , но разбллокировать иожно после перехода в первый tty CTRL+ALT+F1 и ввода пароля.
 
 easy fast screenshot SHIFT+F7 |
 

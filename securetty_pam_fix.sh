@@ -1,6 +1,6 @@
 #!/bin/bash
 
-####Griggorii@gmail.com mit lisence
+####Griggorii@gmail.com mit license
 
 sudo cat << EOF > securetty
 # /etc/securetty: list of terminals on which root is allowed to login.
